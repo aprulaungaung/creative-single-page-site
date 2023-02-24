@@ -424,7 +424,7 @@ footer{
   .top2{
     position: relative;
     top: 260px;
-    width: 100%;
+    /* width: 100%; */
     height: 350px;
   }
 
@@ -454,7 +454,7 @@ footer{
   .bottom1{
     position: relative;
     top: 450px;
-    width: 100%;
+    /* width: 100%; */
     height: 950px;
   }
   .mobile-header{
@@ -508,7 +508,7 @@ footer{
   .bottom2{
     position: relative;
     top:500px;
-    width: 100%;
+    /* width: 100%; */
     height: 500px;
   }
 
@@ -530,7 +530,7 @@ footer{
   footer{
     position: relative;
     top: 950px;
-    width: 100%;
+    /* width: 100%; */
   }
 
   .footer-icon, .footer-text, .footer-btn{
